@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "input-otp": "^1.0.0",
     "vaul": "^0.1.0",
     "cmdk": "^0.1.0",
     "recharts": "^2.8.0",
