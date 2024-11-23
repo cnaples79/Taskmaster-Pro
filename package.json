@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "react-resizable-panels": "^1.0.0",
+    "sonner": "^1.0.0",
     "input-otp": "^1.0.0",
     "vaul": "^0.1.0",
     "cmdk": "^0.1.0",
