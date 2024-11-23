@@ -36,7 +36,7 @@
     "@radix-ui/react-toggle": "^1.0.0",
     "@radix-ui/react-toggle-group": "^1.0.0",
     "@hookform/resolvers": "^3.3.4",
-    "class-variance-authority": "^0.7.0"
+    "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "date-fns": "^3.3.1",
     "lucide-react": "^0.358.0",
